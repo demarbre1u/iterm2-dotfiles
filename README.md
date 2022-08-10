@@ -6,7 +6,7 @@
 
 <br/>
 
-My personal dotfiles I use for `Iterm2` on MacOS.
+My personal dotfiles I use for `iTerm2` on MacOS.
 
 ## Contents
 
