@@ -1,4 +1,4 @@
-# iTerm2 Dotfiles
+# MacOS - iTerm2 Dotfiles
 
 <div align="center">
   <img width="800" src="./media/screen1.png" alt="Screen of the terminal" />  
