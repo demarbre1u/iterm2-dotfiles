@@ -10,11 +10,13 @@ My personal dotfiles I use for `iTerm2` on MacOS.
 
 ## Contents
 
-- [Tmux config](/tmux/README.md)
-- [Fish config](/fish/README.md)
-- [Nano config](/nano/README.md)
+How to install and setup : 
 
-## Shell setup (for macOS)
+- [Tmux](/tmux/README.md)
+- [Fish](/fish/README.md)
+- [Nano](/nano/README.md)
+
+## Useful links
 
 - [iTerm2](https://iterm2.com/)
 - [Tmux](https://github.com/tmux/tmux/wiki)
