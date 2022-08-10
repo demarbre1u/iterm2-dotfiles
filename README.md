@@ -4,6 +4,10 @@
   <img width="800" src="./media/screen1.png" alt="Screen of the terminal" />  
 </div>
 
+<br/>
+
+My personal dotfiles I use for `Iterm2` on MacOS.
+
 ## Contents
 
 - [Tmux config](/tmux/README.md)
