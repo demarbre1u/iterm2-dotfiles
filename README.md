@@ -19,4 +19,4 @@
   - [z](https://github.com/jethrokuan/z)
   - [Fish NVM](https://github.com/jorgebucaran/nvm.fish)
   - [Tide](https://github.com/IlanCosman/tide)
-- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) (I use Hack.)
+- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) (I use Hack)
